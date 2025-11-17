@@ -114,7 +114,7 @@ The application will be accessible at:
 </div>
 ---
 Images
-![WhatsApp Image 2025-11-16 at 20 21 03_1688169b](https://github.com/user-attachments/assets/041054c0-d129-4bc0-b7a1-4a0759ac468b)
+![Aura_AI](https://github.com/user-attachments/assets/64ebd225-ce05-467c-9340-f731e4dc40c9)
 
 ![WhatsApp Image 2025-11-16 at 20 21 57_3de8ccec](https://github.com/user-attachments/assets/d8002115-3093-4b66-bddd-6fd4e796f16a)
 
