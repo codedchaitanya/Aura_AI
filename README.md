@@ -114,7 +114,6 @@ The application will be accessible at:
 </div>
 ---
 Images
-![Aura_AI](https://github.com/user-attachments/assets/64ebd225-ce05-467c-9340-f731e4dc40c9)
 
 ![Aura_AI](https://github.com/user-attachments/assets/64ebd225-ce05-467c-9340-f731e4dc40c9?raw=1)
 
